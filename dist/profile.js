@@ -1,4 +1,5 @@
 export const itakeProfile = {
+  "github": "iTakeDev",
   "discordId": "1239908273885286546",
   "name": "iTake",
   "username": "cheatinformer",
